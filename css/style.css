@@ -1,0 +1,53 @@
+body {
+    background: url(https://s3-alpha-sig.figma.com/img/c9d7/a279/ce03e33014b535047491bf480d0e6b25?Expires=1667174400&Signature=PmHMN7qHJ38fL9a6RWzd7mEtWD3EzsU18UhJb0VtjQFeIzkpQR-sq6zBgLX4Qwa2lmEj-wm9qz0HrQSaAu5GqoD8F5qgViNabTHPUUV2R0NYiuqlqyktix2v1w2pE17YX3EKmBrGUPOYsLLNJczUem2C3JeovO4vs0o7oZJFdDsRxizwSCimAYpb2bWwaWt3g1KqYUt858XgbKyyMJy0jjLoWZB4861OvjC-VokjIvAgbwDqH4qXXko7GN5fkdojaun4GeSLA~VQiLqFbn4n-e8mPn5Mb7sqVZ5DkKba2MarVtEZ8o14GecP7mqHdw0KRVwFfczzmloe0YS2ekLrDg__&Key-Pair-Id=APKAINTVSUGEWH5XD5UA);
+}
+.logo {
+    position: absolute;
+    left: 780px;
+    top: 180px;
+}
+.data  {
+    color:  #fff;
+    position: absolute;
+    font-family: 'Space Mono';
+    font-style: normal;
+    font-size: 20px;
+    top: 280px;
+    left: 790px;
+}
+.contacts {
+    display: flex;
+    position: absolute;
+    top: 800px;
+    left: 820px;
+    margin: 0 -5px;
+}
+.icons {
+    flex: 1 1 auto;
+    margin: 0 20px;
+}
+.links {
+    position: absolute;
+    display: flex;
+    font-family: 'Space Mono';
+    font-style: normal;
+    font-size: 20px;
+    flex-flow: column wrap;
+    top: 450px;
+    left: 750px;
+}
+.links2 {
+    text-decoration: none;
+    color: #fff;
+}
+.links li :hover{
+    color: #FAC422;
+}
+.news {
+
+}
+
+
+
+
+    
